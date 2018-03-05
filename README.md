@@ -10,5 +10,4 @@ Luckily, there is a much better alternative: programmable fax APIs. This code gi
 
 * You have a template in a word document of the survey that you want to send. The survey needs to be slightly different for each person in the sample, including their particular name, address, and ID.
 
-For a full description of this project, see this blog post:
-[link][http://bit.ly/2CWNPeL]
+For a full description of this project, see [this blog post](http://bit.ly/2CWNPeL)
