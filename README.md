@@ -1,4 +1,4 @@
-##Scripts for an Automated, Large-Scale Fax Survey Campaign using Python, docx-mailmerge, and Phaxio
+## Scripts for an Automated, Large-Scale Fax Survey Campaign using Python, docx-mailmerge, and Phaxio
 
 Faxing is still surprisingly common in many business, especially in medicine. As a result, when you're considering doing a survey or reaching a lot of businesses for some other purpose, fax is an option to consider.
 
